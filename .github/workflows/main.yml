@@ -14,4 +14,4 @@ jobs:
         with:
           python-version: '3.11'
       - name: Check Python syntax
-        run: pythn -m py_compile $(find . -name "*.py")
+        run: python -m py_compile $(find . -name "*.py")
