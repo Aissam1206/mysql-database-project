@@ -64,3 +64,4 @@ This data allows testing of constraints, triggers, and procedures in real scenar
 - Expose the database through a backend API (Node.js / Express)
 - Connect to a frontend interface
 - Add reporting queries and views
+- demo
