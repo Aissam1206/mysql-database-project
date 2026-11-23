@@ -58,6 +58,7 @@ This data allows testing of constraints, triggers, and procedures in real scenar
 - Using triggers to maintain data consistency
 - Writing stored procedures to encapsulate logic
 - Modeling real-world workflows at the database level
+- demo
 
 ## Future Improvements
 - Add indexes for performance analysis
